@@ -1,0 +1,1 @@
+C:\Users\singh\source\repos\SaveBitmap\SaveBitmap\SaveBitmap.csproj;x86
